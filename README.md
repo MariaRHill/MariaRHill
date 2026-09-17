@@ -1,82 +1,122 @@
-<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22MariaRHill%22%2C%22name%22%3A%22Maria%20Hill%22%2C%22email%22%3A%22mariarhill61%40gmail.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%5D%2C%22headlines%22%3A%5B%22IT%20Professional%22%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%7B%22name%22%3A%22Get%20started%20with%20generative%20AI%20and%20agents%20in%20Microsoft%20Foundry%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%2C%7B%22name%22%3A%22Get%20Started%20in%20Microsoft%20Foundry%22%2C%22desc%22%3A%22%22%2C%22link%22%3A%22%22%2C%22status%22%3A%22complete%22%7D%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
-
+<!--MYCC-PORTFOLIO-META-->
+ 
 <div align="center">
-
-<img src="https://github.com/MariaRHill.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
-
-# Hi there, I'm Maria Hill
-
-**Maria Hill**
-
-*IT Professional*
-
-[![GITHUB](https://img.shields.io/badge/GITHUB-%40MariaRHill-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MariaRHill) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariarhill61@gmail.com)
-
+ 
+<img src="https://github.com/MariaRHill.png" width="150" alt="Maria Hill" style="border-radius:50%;" />
+ 
+# Maria Hill
+ 
+### IT Professional
+ 
+<p>
+  <a href="https://github.com/MariaRHill.png">
+    https://img.shields.io/badge/GitHub-@MariaRHill-181717?style=for-the-badge&logo=github&logoColor=white
+  </a>
+  mariarhill61@gmail.com
+    https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white
+  </a>
+</p>
+ 
 </div>
-
+ 
 ---
-
-## Professional Summary
-
-*Add your professional summary above to display it here.*
-
+ 
+## 👋 About Me
+ 
+Aspiring IT professional with a passion for technology, cybersecurity, networking, and cloud solutions. I am continuously building my technical skills through hands-on labs, projects, and industry-focused coursework.
+ 
 ---
-
-## Skills Learned
-
-*Select skills in the builder to display them here.*
-
+ 
+## 🎯 Current Focus
+ 
+- Microsoft AI & Foundry
+- Cybersecurity Fundamentals
+- Network Administration
+- Operating Systems
+- IT Support & Troubleshooting
+ 
 ---
-
-## Course Portfolio
-
+ 
+## 🛠 Technical Skills
+ 
+```text
+Networking     ███████░░░
+Security       ██████░░░░
+Windows        ████████░░
+Microsoft 365  ███████░░░
+Generative AI  ██████░░░░
+```
+ 
+---
+ 
+## 📚 Course Portfolio
+ 
 <details>
 <summary><strong>Course 1: Networking I</strong></summary>
-
-*No labs added yet.*
-
+ 
+Currently building networking projects and labs.
+ 
 </details>
-
+ 
 <details>
 <summary><strong>Course 2: Computer & Security Essentials</strong></summary>
-
-| Lab / Project | Description | Status | Link |
-|---|---|---|---|
-| Get started with generative AI and agents in Microsoft Foundry | — | ✅ Complete | — |
-| Get Started in Microsoft Foundry | — | ✅ Complete | — |
-
+ 
+### Completed Labs
+ 
+| Project | Status |
+|----------|----------|
+| Get Started with Generative AI and Agents in Microsoft Foundry | ✅ Complete |
+| Get Started in Microsoft Foundry | ✅ Complete |
+ 
 </details>
-
+ 
 <details>
 <summary><strong>Course 3: Operating Systems I</strong></summary>
-
-*No labs added yet.*
-
+ 
+Projects and labs coming soon.
+ 
 </details>
-
+ 
 <details>
 <summary><strong>Course 4: Security I</strong></summary>
-
-*No labs added yet.*
-
+ 
+Projects and labs coming soon.
+ 
 </details>
-
+ 
 <details>
 <summary><strong>Course 5: Server I</strong></summary>
-
-*No labs added yet.*
-
+ 
+Projects and labs coming soon.
+ 
 </details>
-
+ 
 <details>
 <summary><strong>Course 6: Networking & Security I</strong></summary>
-
-*No labs added yet.*
-
+ 
+Projects and labs coming soon.
+ 
 </details>
-
+ 
 ---
-
+ 
+## 📈 GitHub Stats
+ 
+<p align="center">
+  https://github-readme-stats.vercel.app/api?username=MariaRHill&show_icons=true&theme=github_dark
+  https://github-readme-stats.vercel.app/api/top-langs/?username=MariaRHill&layout=compact&theme=github_dark
+</p>
+ 
+---
+ 
+## 🌟 Professional Goal
+ 
+My goal is to develop expertise in IT infrastructure, cybersecurity, cloud technologies, and AI-driven solutions while building a strong portfolio of practical projects and certifications.
+ 
+---
+ 
 <div align="center">
-<sub>Built with the <a href="https://mycceducation.azurewebsites.net">MyComputer Career Digital Portfolio Builder</a> · ITSA Program</sub>
+ 
+⭐ Thanks for visiting my profile!
+ 
 </div>
